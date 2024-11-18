@@ -1,4 +1,3 @@
-  // Mengambil elemen HTML yang diperlukan
 // Ambil elemen menggunakan class
 const namaMakanan = document.querySelector('.namaMakanan');
 const hargaMakanan = document.querySelector('.hargaMakanan');
